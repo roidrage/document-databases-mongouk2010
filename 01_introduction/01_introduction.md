@@ -24,18 +24,32 @@
 
 !SLIDE
 
-## What this talk is about: ##
+# What this talk is about: #
 
-!SLIDE
+!SLIDE javascript
 
 # Documents #
+
+    @@@ javascript
+    {
+      "_id": "1",
+      "title": "Document Universe",
+      "tags": ["unstructured", "schemaless"]
+    }
 
 !SLIDE
 
 # Diversity #
 
-!SLIDE
+!SLIDE center
+
+# The Universe #
+
+![The Universe](universe.jpg)
+
+!SLIDE center
 
 # The Web #
 
+<a href="http://www.flickr.com/photos/mackenzieblu/3435435676/"><img src="london_tube.gif"/></a>
 
