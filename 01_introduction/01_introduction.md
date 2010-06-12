@@ -26,6 +26,10 @@
 
 # What this talk is about: #
 
+!SLIDE
+
+# NoSQL #
+
 !SLIDE javascript
 
 # Documents #
@@ -37,9 +41,11 @@
       "tags": ["unstructured", "schemaless"]
     }
 
-!SLIDE
+!SLIDE center
 
 # Diversity #
+
+<a href="http://www.flickr.com/photos/g_kat26/3777564473/"><img src="right_tool.jpg"/></a>
 
 !SLIDE center
 
@@ -53,3 +59,6 @@
 
 <a href="http://www.flickr.com/photos/mackenzieblu/3435435676/"><img src="london_tube.gif"/></a>
 
+!SLIDE center
+
+![MongoDB](mongodb.png)

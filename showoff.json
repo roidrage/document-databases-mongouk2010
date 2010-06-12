@@ -1,6 +1,8 @@
 {
   "name": "MongoDB's Place in the Document Universe",
   "sections": [
-    {"section": "01_introduction"}
+    {"section": "01_introduction"},
+    {"section": "02_why_documents"},
+    {"section": "03_diversity"}
   ]
 }
