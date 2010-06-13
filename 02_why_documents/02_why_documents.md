@@ -8,23 +8,27 @@
 
 !SLIDE
 
-## The Web is not relational ##
+## The Web is not relational. ##
 
 !SLIDE
 
-## Data is unstructured ##
+## Data is unstructured. ##
 
 !SLIDE
 
-## Data is loosely related ##
+## Data is loosely related. ##
 
 !SLIDE
 
-## Migrating schemas is painful ##
+## Some data belongs together. ##
 
 !SLIDE
 
-## Schemas should grow or shrink on demand ##
+## Migrating schemas is painful. ##
+
+!SLIDE
+
+## Schemas should grow or shrink on demand. ##
 
 !SLIDE
 

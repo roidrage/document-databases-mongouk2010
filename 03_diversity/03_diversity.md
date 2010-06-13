@@ -103,18 +103,6 @@
 
 !SLIDE
 
-# MongoDB's Edge: #
-
-!SLIDE
-
-# Flexible Query Model #
-
-!SLIDE
-
-# Ad-hoc Queries #
-
-!SLIDE
-
 # Scaling Out #
 
 !SLIDE bullets incremental
@@ -133,7 +121,7 @@
 * Nodes can be added any time
 * Scales up with added nodes
 
-!SLIDE
+!SLIDE bullets incremental
 
 # MongoDB #
 
