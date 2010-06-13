@@ -35,3 +35,15 @@
 ## Lotus Notes. ##
 
 ![Lotus Notes](lotus_notes.png)
+
+!SLIDE
+
+# The Web + Documents = <span class="heart">♥</span> #
+
+!SLIDE
+
+## The Web is full of documents. ##
+
+!SLIDE center
+
+![Document](document.jpg)

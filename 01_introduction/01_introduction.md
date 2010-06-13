@@ -19,7 +19,8 @@
 
 <a href="http://scalarium.com"><img src="scalarium.png" id="scalarium_logo"/></a>
 
-## Awesome Cloud Management and Deployment ##
+## Cloud Infrastructure Management and ##
+## Deployment ##
 ## [@scalarium](http://twitter.com/scalarium)
 
 !SLIDE
