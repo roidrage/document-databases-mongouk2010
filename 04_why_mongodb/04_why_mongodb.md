@@ -12,6 +12,21 @@
 
 !SLIDE center
 
+![Document](document.jpg)
+
+!SLIDE javascript
+
+    @@@ javascript
+    db.posts.save({
+      title: "Notes on MongoDB",
+      contents: "For an article in a German magazine...",
+      created_at: Date(),
+      tags: ['mongodb', 'nosql'],
+      comments: {}
+    })
+
+!SLIDE center
+
 ![Document: Tags](document_tags.jpg)
 
 !SLIDE javascript
@@ -96,7 +111,7 @@
     @@@ javascript
     db.find(
       {name: "Notes on MongoDB"},
-      {'contents': 1}
+      {contents: 1}
     )
 
 !SLIDE center
