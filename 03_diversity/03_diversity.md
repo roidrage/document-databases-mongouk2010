@@ -1,6 +1,6 @@
 !SLIDE
 
-# Why Diversity? #
+# Diversity #
 
 !SLIDE
 

@@ -47,3 +47,39 @@
 !SLIDE center
 
 ![Document](document.jpg)
+
+!SLIDE center
+
+![Document: Content](document_contents.jpg)
+
+!SLIDE center
+
+![Document: Tags](document_tags.jpg)
+
+!SLIDE center
+
+![Document: Related](document_related.jpg)
+
+!SLIDE center
+
+![Document: Embedded](document_embedded.jpg)
+
+!SLIDE
+
+## All that data belongs together. ##
+
+!SLIDE
+
+## Impossible with relational data structures. ##
+
+!SLIDE
+
+## Documents allow for flexibility. ##
+
+!SLIDE
+
+## Related data can be stored together. ##
+
+!SLIDE
+
+## MongoDB is one possible solution. ##
