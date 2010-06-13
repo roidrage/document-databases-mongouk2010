@@ -32,13 +32,7 @@
 
 !SLIDE center
 
-## Lotus Notes. ##
-
 ![Lotus Notes](lotus_notes.png)
-
-!SLIDE
-
-# The Web + Documents = <span class="heart">♥</span> #
 
 !SLIDE
 
@@ -83,3 +77,8 @@
 !SLIDE
 
 ## MongoDB is one possible solution. ##
+
+!SLIDE
+
+# The Web + Documents = <span class="heart">♥</span> #
+

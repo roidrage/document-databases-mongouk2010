@@ -153,7 +153,18 @@
 
 # Replica Sets #
 
-* TODO!
+* A cluster of N nodes
+* One is the master
+* New master is elected on outage
+* Automatic failover and recovery
+* Can be tuned for location
+
+!SLIDE bullets incremental
+
+# Replica Sets #
+
+* Coming in MongoDB 1.6
+* Wicked cool!
 
 !SLIDE center
 
@@ -171,3 +182,30 @@
 * Lots of moving parts
 
 !SLIDE 
+
+# Durability #
+## Or: How safe is my data? ##
+
+!SLIDE bullets incremental
+
+# CouchDB #
+
+* Durability on a single host
+* Data is never updated, only appended
+* Written data is always consistent
+* Required compaction
+
+!SLIDE bullets incremental
+
+# Riak #
+
+* Durability through replication
+* Any node can be a replica for any node
+* Tunable per storage backend
+
+!SLIDE bullets incremental
+
+# MongoDB #
+
+* No single-server durability
+* Replicate, replicate, replicate
