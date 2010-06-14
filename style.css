@@ -40,9 +40,9 @@ p.caption {
 }
 
 div.slide {
-  background: url(http://www.peritor.com/img/peritor_logo.png) no-repeat;
+  background: url(/file/peritor_logo.png) no-repeat;
   background-position: 95% 3%;
-  -webkit-background-size: 15% auto;
+  -webkit-background-size: 6% auto;
 }
 
 span.current:before, span.current:after {
