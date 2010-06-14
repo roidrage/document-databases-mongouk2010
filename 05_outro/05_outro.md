@@ -1,3 +1,3 @@
-!SLIDE center
+!SLIDE fullscreen center
 
 ![Thanks](fin.jpg)
