@@ -4,6 +4,7 @@
     {"section": "01_introduction"},
     {"section": "02_why_documents"},
     {"section": "03_diversity"},
-    {"section": "04_why_mongodb"}
+    {"section": "04_why_mongodb"},
+    {"section": "05_outro"}
   ]
 }
