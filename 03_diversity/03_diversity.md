@@ -1,6 +1,6 @@
 !SLIDE
 
-# Diversity #
+# The Web <span class="heart">♥</span> Diversity #
 
 !SLIDE
 
@@ -20,10 +20,6 @@
 
 ## Relational databases are the best proof. ##
 
-!SLIDE
-
-## MongoDB is not alone. ##
-
 !SLIDE bullets incremental
 
 ## Document Databases ##
@@ -31,10 +27,6 @@
 * CouchDB
 * MongoDB
 * Riak
-
-!SLIDE
-
-## Same but different. ##
 
 !SLIDE bullets incremental
 

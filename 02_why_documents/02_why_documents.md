@@ -72,7 +72,7 @@
 
 !SLIDE
 
-## Documents allow for flexibility. ##
+## Documents bring flexibility. ##
 
 !SLIDE
 
@@ -80,9 +80,4 @@
 
 !SLIDE
 
-## MongoDB is one possible solution. ##
-
-!SLIDE
-
-# The Web + Documents = <span class="heart">♥</span> #
-
+# The Web <span class="heart">♥</span> Documents #

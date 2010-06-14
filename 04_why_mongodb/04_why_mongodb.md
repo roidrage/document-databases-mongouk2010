@@ -19,7 +19,7 @@
     @@@ javascript
     db.posts.save({
       title: "Notes on MongoDB",
-      contents: "For an article in a German magazine...",
+      contents: "For an article in a...",
       created_at: Date(),
       tags: ['mongodb', 'nosql'],
       comments: {}
