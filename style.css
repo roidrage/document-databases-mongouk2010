@@ -1,6 +1,6 @@
 a {
   text-decoration: underline;
-  color: #791714;
+  color: #333333;
 }
 
 .heart {
@@ -9,22 +9,27 @@ a {
 }
 
 body {
-  font-family: "Frutiger LT Std";
-  color: #791714;
+  font-family: "Sanuk-Bold", "Gill Sans", Helvetica;
   font-weight: bold;
+  background: url(/file/scalarium_background.png) no-repeat;
+  background-color: #b6ecf2;
+  background-position: center 1%;
+  color: #333333;
 }
 
 h1 {
-  font-family: "Frutiger LT Std";
-  font-weight: bold;
+  font-family: "Sanuk-Bold", "Gill Sans", Helvetica;
+  font-size: 5.5em;
 }
 
 h2 {
-  font-weight: bold;
 }
 
 h3 {
-  font-weight: bold
+}
+
+li {
+  font-size: 110%;
 }
 
 blockquote {
@@ -40,9 +45,24 @@ p.caption {
 }
 
 div.slide {
-  background: url(/file/peritor_logo.png) no-repeat;
-  background-position: 95% 3%;
-  -webkit-background-size: 6% auto;
+  background: none;
+}
+
+.slide {
+  border: none;
+}
+
+div.first-slide {
+  background: url(/file/mongodb.png) no-repeat;
+  background-position: center center;
+}
+
+#preso {
+  background: none;
+}
+
+#footer {
+  display: none;
 }
 
 span.current:before, span.current:after {
@@ -58,13 +78,9 @@ img#scalarium_logo {
   height: 450px;
 }
 
-#footer {
-  background-color: white;
-}
-
 #slideInfo {
   float: right;
-  background-color: #791714;
+  background-color: #333333;
   height: 20px;
   color: white;
   width: 200px;
@@ -73,3 +89,6 @@ img#scalarium_logo {
   padding-top: 7px;
 }
 
+pre.sh_sourceCode {
+  background-color: #b6ecf2;
+}

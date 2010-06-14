@@ -1,3 +1,7 @@
-!SLIDE fullscreen center
+!SLIDE
 
-![Thanks](fin.jpg)
+# Thanks! #
+
+!SLIDE 
+
+# Questions? #
