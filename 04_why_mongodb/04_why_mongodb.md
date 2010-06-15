@@ -4,11 +4,7 @@
 
 !SLIDE
 
-## What makes MongoDB unique? ##
-
-!SLIDE
-
-## All relevant data can be updated independently. ##
+## Update relevant data independently. ##
 
 !SLIDE center
 
@@ -94,11 +90,11 @@
 
 !SLIDE
 
-## Just make sure your data is properly indexed. ##
+## Requires data to be properly indexed. ##
 
 !SLIDE
 
-## No other document store can do adhoc queries. ##
+## No other document store can do dynamic queries. ##
 
 !SLIDE center
 

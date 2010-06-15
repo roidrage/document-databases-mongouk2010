@@ -24,22 +24,6 @@
 
 !SLIDE
 
-## Migrating schemas is painful. ##
-
-!SLIDE
-
-## Schemas should grow or shrink on demand. ##
-
-!SLIDE
-
-## The idea of documents isn't new. ##
-
-!SLIDE center
-
-![Lotus Notes](lotus_notes.png)
-
-!SLIDE
-
 ## The Web is full of documents. ##
 
 !SLIDE center
@@ -64,11 +48,11 @@
 
 !SLIDE
 
-## All that data belongs together. ##
+## All this data belongs together. ##
 
 !SLIDE
 
-## Impossible with relational data structures. ##
+## Complex with relational structures. ##
 
 !SLIDE
 
@@ -76,7 +60,7 @@
 
 !SLIDE
 
-## Related data can be stored together. ##
+## Related data is stored together. ##
 
 !SLIDE
 

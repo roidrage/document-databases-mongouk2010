@@ -4,10 +4,6 @@
 
 !SLIDE
 
-# The Right Tool™ #
-
-!SLIDE
-
 # NoSQL is about choice. #
 
 <p class="caption"><a href="http://talks.jan.io/buzzwords-2010.html#present">Jan Lehnardt, 2010</a></p>
@@ -18,21 +14,25 @@
 
 !SLIDE
 
-## Relational databases are the best proof. ##
+## Relational databases are proof. ##
 
 !SLIDE bullets incremental
 
-## Document Databases ##
+# Document Databases #
+
+* are pretty versatile
+
+!SLIDE bullets incremental
 
 * CouchDB
-* MongoDB
 * Riak
+* MongoDB
 
 !SLIDE bullets incremental
 
 # CouchDB #
 
-* Made of the web
+* "Made of the web"
 * Uses HTTP, JSON, JavaScript
 * Queries using Map/Reduce
 * P2P-like replication
