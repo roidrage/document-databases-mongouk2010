@@ -28,6 +28,10 @@
 * Riak
 * MongoDB
 
+!SLIDE center
+
+![Lotus Notes](lotus_notes.png)
+
 !SLIDE bullets incremental
 
 # CouchDB #
