@@ -130,7 +130,7 @@
 # Replication #
 
 * Initial sync
-* Stream changes from master (opslog)
+* Stream changes from master
 * Big improvement over MySQL replication
 
 !SLIDE bullets incremental
