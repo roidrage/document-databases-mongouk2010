@@ -20,13 +20,11 @@
 
 # Document Databases #
 
-* are pretty versatile
-
 !SLIDE bullets incremental
 
 * CouchDB
-* Riak
 * MongoDB
+* Riak
 
 !SLIDE center
 
@@ -96,6 +94,7 @@
 * Rich, dynamic queries
 * SQL-ish
 * Secondary Indexes
+* Map/Reduce
 
 !SLIDE
 

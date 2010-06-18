@@ -41,7 +41,7 @@
 !SLIDE javascript
 
     @@@ javascript
-    post.previous = DBRef(previousPost)
+    post.previous = new DBRef('posts', previousPost._id)
 
 !SLIDE center
 
@@ -131,3 +131,10 @@
 * Queries and indexes from relational databases
 * Schemaless documents
 * Some scaling features sprinkled on top
+
+!SLIDE bullets incremental
+
+## The Sugar Sprinkles ##
+
+* GridFS
+* Map/Reduce

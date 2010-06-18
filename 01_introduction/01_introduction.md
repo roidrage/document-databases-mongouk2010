@@ -31,10 +31,6 @@
 
 # This talk is about: #
 
-!SLIDE
-
-# NoSQL #
-
 !SLIDE javascript
 
 # Documents #
