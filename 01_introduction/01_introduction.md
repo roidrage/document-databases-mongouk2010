@@ -29,7 +29,7 @@
 
 !SLIDE
 
-# What this talk is about: #
+# This talk is about: #
 
 !SLIDE
 

@@ -52,15 +52,13 @@
     @@@ javascript
     db.posts.update(
       {name: "Notes on MongoDB"},
-      {
-        $push: {comments:
+
+      {$push: {comments:
           {
             author: "Pascal betz",
             comment: "Thanks for the great..."
           }
-        }
-      }
-    )
+    }})
 
 !SLIDE center
 

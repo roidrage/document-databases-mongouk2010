@@ -56,7 +56,7 @@
 * BSON (binary JSON)
 * Dynamic queries
 * Index support
-* Atomic operations on data
+* Atomic operations
 
 !SLIDE
 
@@ -93,7 +93,7 @@
 
 # MongoDB #
 
-* Dynamic queries
+* Rich, dynamic queries
 * SQL-ish
 * Secondary Indexes
 

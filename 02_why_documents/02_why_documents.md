@@ -12,15 +12,15 @@
 
 !SLIDE
 
-## Data is unstructured. ##
+## Unstructured data. ##
 
 !SLIDE
 
-## Data is loosely related. ##
+## Loosely linked data. ##
 
 !SLIDE
 
-## Some data belongs together. ##
+## Data belongs together. ##
 
 !SLIDE
 
@@ -48,7 +48,7 @@
 
 !SLIDE
 
-## All this data belongs together. ##
+## This data belongs together. ##
 
 !SLIDE
 
@@ -60,7 +60,7 @@
 
 !SLIDE
 
-## Related data is stored together. ##
+## Related data in one place. ##
 
 !SLIDE
 
